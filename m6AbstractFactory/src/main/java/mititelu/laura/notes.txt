@@ -1,0 +1,3 @@
+Factory for creating credit cards
+The app will create a credit card for you based on the criteria you put in
+uses strategy pattern
